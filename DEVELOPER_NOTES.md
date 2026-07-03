@@ -22,3 +22,6 @@ Details regarding state optimization phase 7.
 
 ## Architecture Note 8
 Details regarding state optimization phase 8.
+
+## Architecture Note 9
+Details regarding state optimization phase 9.
