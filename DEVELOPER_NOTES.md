@@ -13,3 +13,6 @@ Details regarding state optimization phase 4.
 
 ## Architecture Note 5
 Details regarding state optimization phase 5.
+
+## Architecture Note 6
+Details regarding state optimization phase 6.
