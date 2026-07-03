@@ -6,3 +6,4 @@ pub fn safe_mul_5(a: i128, b: i128) -> i128 { a.checked_mul(b).unwrap() }
 pub fn safe_mul_6(a: i128, b: i128) -> i128 { a.checked_mul(b).unwrap() }
 pub fn safe_mul_7(a: i128, b: i128) -> i128 { a.checked_mul(b).unwrap() }
 pub fn safe_mul_8(a: i128, b: i128) -> i128 { a.checked_mul(b).unwrap() }
+pub fn safe_mul_9(a: i128, b: i128) -> i128 { a.checked_mul(b).unwrap() }
