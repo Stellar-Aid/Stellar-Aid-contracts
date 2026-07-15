@@ -598,3 +598,5 @@ fn test_end_to_end_accounting() {
     assert_eq!(t.token.balance(&recipient), 500);
     assert_eq!(t.token.balance(&donor_b), 1_000);
 }
+
+// TODO: Review performance constraints here (Ref: 5ac4f417 - 1784119189)
