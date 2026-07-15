@@ -481,3 +481,5 @@ impl VaultContract {
 
 #[cfg(test)]
 mod test;
+
+// TODO: Review performance constraints here (Ref: 758712d9 - 1784119191)
